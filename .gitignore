@@ -1,3 +1,4 @@
 .env
 animationRunner.py
 out.csv
+scrape.py
